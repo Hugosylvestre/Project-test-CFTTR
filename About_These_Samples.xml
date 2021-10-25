@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<!-- Created with XMetaL (http://www.xmetal.com) -->
+<?xm-open-map Sample_Map.ditamap?>
+<concept id="concept_7A990228569041A78F1EE75DC61686DD"> 
+  <title>About these sample documents</title> 
+  <shortdesc>These sample documents are written in DITA. They include parts of
+	 the documentation for the 
+	 <i><ph id="sph_BC5271148E66415AAFD5F21793E18779_cf"
+		conref="Reusable_Components/XMetaL_Reviewer.xml#ditacomponent_FFA8F9488B214B3B84175A411A134CE6/ph_BC5271148E66415AAFD5F21793E18779"></ph></i>application.
+	 
+  </shortdesc> 
+  <conbody> 
+	 <p>Some DITA features you will see in these documents are: 
+	 </p> 
+	 <ul id="ul_A714EA3301834B51B244A3CED46F4875"> 
+		<li id="li_6E4ECF1928B5460FB49C2F9A9C6CBE6B">A DITA map with relationship
+		  tables 
+		</li> 
+		<li id="li_FC890EE9A5C14EAC9CA32B7C7AED5236">The three DITA topic types:
+		  Task, Concept, and Reference 
+		</li> 
+		<li id="li_416626EEC8A64407928B14DE67116E4A">Conditional text, in 
+		  <xref href="Edit_Account.xml#task_92896ECC4C8D48BD930161E4C9F19B88"
+			type="task" format="dita"><?xm-replace_text Editing a user account?></xref>.
+		</li> 
+	 </ul> 
+	 <p>To get the most out of exploring these sample files, please see the 
+		<i>XMetaL Author DITA Evaluation Guide</i>. This is accessible
+		from the Help > Samples > Evaluation Guide menu item.		
+	 </p> 
+  </conbody> 
+</concept> 

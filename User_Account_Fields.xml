@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<!-- Created with XMetaL (http://www.xmetal.com) -->
+<reference id="reference_299721D69E564CB898B46045B0DE8285">
+  <title>User profile fields</title>
+  <shortdesc>This dialog contains account details about individual users. If
+you are an administrator, you can change any user's account details.
+</shortdesc>
+  <refbody>
+    
+    
+    <table id="table_22D15384ABD04899BA86EAD8972380E5"><tgroup cols="3"><colspec colnum="1" colname="col1" colwidth="2.30*"/><colspec colnum="2" colname="col2" colwidth="3.61*"/><colspec colnum="3" colname="col3" colwidth="1.00*"/><thead><row><entry colname="col1">Field</entry><entry colname="col2">Description</entry><entry colname="col3">Required</entry></row></thead><tbody><row><entry colname="col1">First and last name</entry><entry colname="col2">Primary identifier for <ph id="jph_BC5271148E66415AAFD5F21793E18779_cf" conref="Reusable_Components/XMetaL_Reviewer.xml#ditacomponent_FFA8F9488B214B3B84175A411A134CE6/ph_BC5271148E66415AAFD5F21793E18779"></ph> to identify a user. Can contain spaces.</entry><entry colname="col3">Yes</entry></row><row><entry colname="col1">E-mail address
+</entry><entry colname="col2">Email address used for notification for <ph id="kph_BC5271148E66415AAFD5F21793E18779_cf" conref="Reusable_Components/XMetaL_Reviewer.xml#ditacomponent_FFA8F9488B214B3B84175A411A134CE6/ph_BC5271148E66415AAFD5F21793E18779"></ph>
+ tasks. </entry><entry colname="col3"></entry></row><row><entry colname="col1">Username </entry><entry colname="col2">Unique log on ID for <ph id="lph_BC5271148E66415AAFD5F21793E18779_cf" conref="Reusable_Components/XMetaL_Reviewer.xml#ditacomponent_FFA8F9488B214B3B84175A411A134CE6/ph_BC5271148E66415AAFD5F21793E18779"></ph>
+ users that must have at least one upper case character. Cannot contain spaces or the following symbols: #, $, %, and *. </entry><entry colname="col3">Yes</entry></row><row><entry colname="col1">Short name</entry><entry colname="col2">Name that <ph id="zph_BC5271148E66415AAFD5F21793E18779_cf" conref="Reusable_Components/XMetaL_Reviewer.xml#ditacomponent_FFA8F9488B214B3B84175A411A134CE6/ph_BC5271148E66415AAFD5F21793E18779"></ph>
+ uses to identify the owner of a comment
+or revision. It is possible for more than one user to have the same
+short name.
+	
+</entry><entry colname="col3">Yes</entry></row><row><entry colname="col1">Password</entry><entry colname="col2">Log on password that can contain  any characters except
+spaces. Passwords must be between 4 and 12 characters in
+length.
+
+</entry><entry colname="col3">Yes</entry></row><row><entry colname="col1">Confirm Password</entry><entry colname="col2">Repeat password.</entry><entry colname="col3">Yes</entry></row><row><entry colname="col1">System role
+
+</entry><entry colname="col2">Either user  or administrator. The
+difference between the two types of users is that only <ph id="xph_BC5271148E66415AAFD5F21793E18779_cf" conref="Reusable_Components/XMetaL_Reviewer.xml#ditacomponent_FFA8F9488B214B3B84175A411A134CE6/ph_BC5271148E66415AAFD5F21793E18779"></ph>
+
+administrators can add and edit any user account. Users
+can only edit their own account in a limited way (i.e., they cannot
+change their own System Role or Account Status). Only <ph id="cph_BC5271148E66415AAFD5F21793E18779_cf" conref="Reusable_Components/XMetaL_Reviewer.xml#ditacomponent_FFA8F9488B214B3B84175A411A134CE6/ph_BC5271148E66415AAFD5F21793E18779"></ph>
+administrators can change these settings. </entry><entry colname="col3"></entry></row><row><entry colname="col1">Account status
+</entry><entry colname="col2">Either 'Enabled' or 'Disabled'. A user's account must be
+'Enabled' in order to log on to <ph id="vph_BC5271148E66415AAFD5F21793E18779_cf" conref="Reusable_Components/XMetaL_Reviewer.xml#ditacomponent_FFA8F9488B214B3B84175A411A134CE6/ph_BC5271148E66415AAFD5F21793E18779"></ph>
+. Only <ph id="bph_BC5271148E66415AAFD5F21793E18779_cf" conref="Reusable_Components/XMetaL_Reviewer.xml#ditacomponent_FFA8F9488B214B3B84175A411A134CE6/ph_BC5271148E66415AAFD5F21793E18779"></ph>
+
+administrators can change this setting. An administrator
+cannot disable his or her own account.
+</entry><entry colname="col3"></entry></row><row><entry colname="col1">Comment Text Box
+
+</entry><entry colname="col2">Text box for adding comments. Administrators can add
+comments to this box at any time. Users can add text only
+to their own account's comment box; they can read comments from all
+accounts. 
+</entry><entry colname="col3"></entry></row></tbody></tgroup></table>
+
+  </refbody>
+</reference>

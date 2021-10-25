@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd" xml:lang="fr-fr">
+<!-- Created with XMetaL (http://www.xmetal.com) -->
+<concept id="concept_AD20E11C93A14CD2ABC5E6874A39DFF5"> 
+  <title>About project participants</title> 
+  <shortdesc>Project participants are the people who are allowed to manage
+	 review projects and comment on documents. 
+  </shortdesc> 
+  <conbody> 
+	 <p>Every review project has at least one document owner and at least one
+		reviewer. When a document is uploaded to 
+		<ph id="aph_BC5271148E66415AAFD5F21793E18779_cf"
+		 conref="Reusable_Components/XMetaL_Reviewer.xml#ditacomponent_FFA8F9488B214B3B84175A411A134CE6/ph_BC5271148E66415AAFD5F21793E18779"></ph>,
+		the user who uploads the document is automatically assigned the role of
+		document owner. Document owners may add or remove reviewers for a project, and
+		initiate the 
+		<b>Prepare Next Draft</b> process. 
+	 </p> 
+	 <p>Usually, the author is also the document owner; however, the user who
+		uploads a document may also assign a different user to be document owner. 
+	 </p> 
+	 <p>A review project may have more than one user assigned the role of
+		author, as documents may be authored by more than person. 
+	 </p> 
+  </conbody> 
+</concept> 

@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<!-- Created with XMetaL (http://www.xmetal.com) -->
+<task id="task_BF5B80DA9C9042D1873A8B3B6138BC91">
+  <title>Adding project participants
+</title><shortdesc>Document owners assign reviewers
+, co-authors and co-owners
+ to a project.
+</shortdesc>
+  
+  <taskbody>
+    <prereq id="prereq_0230EF0C0956496EA1F3D3F5B325945F"><ul id="ul_D236CB3F7FD1420CAAA56ACCEAF948EB"><li id="li_F7A00FDCE52B41C5A9ADD6AB613D4DA6">If you have not yet added a new document to <ph id="hph_BC5271148E66415AAFD5F21793E18779_cf" conref="Reusable_Components/XMetaL_Reviewer.xml#ditacomponent_FFA8F9488B214B3B84175A411A134CE6/ph_BC5271148E66415AAFD5F21793E18779"></ph>
+, do so now.
+
+</li><li id="li_DE2378D1A10842E89506C30CF06425B7">Ensure that each person who needs to review the document has a user account.</li></ul></prereq>
+    <context id="context_F85694CF1F1A49669BD0A36CF40DAF34">To assign participants to a review project:
+</context>
+    <steps id="steps_AB94B4E80B4545BDB4E120973A02D0A6">
+      <step id="step_73C3DEDE66B142599AC471E1C311E13B"><cmd id="cmd_1462AAFAD59647B398D2DFC91033E684">In the  <wintitle>Add Review
+Project
+
+	</wintitle> dialog, click  <uicontrol>Select
+Authors</uicontrol>.</cmd><stepresult id="stepresult_BD4BCB9B0E61483B89A3E612BDE67746">The  <wintitle>Select Authors
+
+	</wintitle>
+dialog opens.</stepresult></step><step id="step_D63B4EC85EFF4DB6BE96E0EE54E78334"><cmd id="cmd_D0AA204ECC3745EF8DF2368B9B69EE0A">Add authors and/or document owners to the project as follows:</cmd><substeps id="substeps_91D191AB2AA24999B4224A28CAF0E3C7"><substep id="substep_B07F7188A5A7480C9A54C5A47D195A25"><cmd id="cmd_32EAA014D1154E159BC6E827F78122C4">Click the user name in the pane
+on the left (under the  <uicontrol>Available
+Users</uicontrol> heading). </cmd>
+</substep><substep id="substep_18F964B2A24A4F1D9053FF554324F721"><cmd id="cmd_F22E2CC6763340FDB1584A6D7E19505F">Click the  <uicontrol>&gt;&gt;</uicontrol> button under the  appropriate  heading.
+</cmd></substep></substeps><stepresult id="stepresult_8958211A27FE46459F26327ABD0B2DE7">The highlighted user is added to the list of authors or document owners.
+
+</stepresult></step><step id="step_7F33E126E382434797D98C3A030DBE9C"><cmd id="cmd_6F3F3818BC594E15A0AE968D82DAB339">Click the  <uicontrol>Reviewers</uicontrol> tab.</cmd><info><image alt="General and Reviewers tabs of the Add Review Project dialog" href="Reviewers_tab.gif" id="image_00D9E743D3674611988E4249EDB4EC61" placement="break" width="339" height="81"></image>
+</info></step><step id="step_BD6F2F804C464E1B98C731BD4EE2070D"><cmd id="cmd_54E84BE93B3B441BB1622A86D3FE421E">Click the user name in the pane on the left (under the  <uicontrol>Available Users</uicontrol> heading), then click the
+ <uicontrol>&gt;&gt;</uicontrol> button to add the
+highlighted user to the list of Reviewers.
+</cmd><stepresult id="stepresult_ADF10955BC694913BF30EACAF9724840">The user is added to the project as a Reviewer. The default
+Reviewer role is  <b>Required</b>.
+</stepresult></step>
+    </steps>
+    
+  </taskbody>
+</task>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<!-- Created with XMetaL (http://www.xmetal.com) -->
+<task id="task_A5E1DD41FB014E4F952FD29721D8DE15">
+  <title>Adding a new user account</title>
+  <shortdesc>If you are a <ph id="gph_BC5271148E66415AAFD5F21793E18779_cf" conref="Reusable_Components/XMetaL_Reviewer.xml#ditacomponent_FFA8F9488B214B3B84175A411A134CE6/ph_BC5271148E66415AAFD5F21793E18779"></ph> administrator, you can add new users to
+the system.
+</shortdesc>
+  <taskbody>
+    
+    <context id="context_149B3CCE00E2443D8D551C4021E1BD65">To add a new user account:
+</context>
+    <steps id="steps_B0497918C3664410A02B35E30C48EBB7">
+      <step id="step_B5D8D677E4244B56905F87A52017079C">
+        <cmd id="cmd_68562EE4222945FFB7C4CC112125AD35">If it is not already visible, open the  <wintitle>Reviewer Home</wintitle> page.
+</cmd>
+        
+      </step>
+    <step id="step_9E83332847A04C08A9A80CC9213AB840"><cmd id="cmd_87F1CEEBC7B34D95B905625F2A5D0B5E">Click  <uicontrol>User Accounts</uicontrol>. </cmd><stepresult id="stepresult_C0D9BD8CB48D489597C5DE685869D6FC">The  <wintitle>User Accounts</wintitle> page opens.
+</stepresult></step><step id="step_E43D1CCC90AF476EBA27B168277AB2BB"><cmd id="cmd_96C9617EDE9348239BFC9E86ACA9B21B">Click  <uicontrol>Add User Account</uicontrol>. </cmd><stepresult id="stepresult_746AF710AE344210A4CC62DD22ECDA66">The  <wintitle>Add User Account</wintitle> dialog opens. </stepresult></step><step id="step_682A3963BB364E0B8FADE3EA3DBDB0A8"><cmd id="cmd_683B7FA94C38412D8D18059C83551A4C">Enter the details of the new user account. </cmd></step></steps>
+    
+  </taskbody>
+</task>

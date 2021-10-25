@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<!-- Created with XMetaL (http://www.xmetal.com) -->
+<concept id="concept_D7A7D7690DE8470889D39FD71C0CE74A">
+  <title>Welcome to XMetaL Author DITA Edition</title>
+	<shortdesc>No other DITA-based authoring
+solution offers the depth, performance, and flexibility of XMetaL Author DITA
+Edition. Building on XMetaL Author’s best-of-breed feature set, the DITA
+Edition provides an environment optimized for common technical writing
+tasks:</shortdesc>
+
+  <conbody>
+    <section id="section_D662403F063B4B15BCD31D51B9E5F7DF"><title>Creating Topics </title>
+		<ul id="ul_4B2E3268C59F481399E38E84461A6474">
+			<li id="li_132C1EF8806C4583AFA46EEC4159579A">Get productive right away
+with ready-to-use topic templates.</li>
+			<li id="li_1DA3C8B440E74370ADEC3F497160C40F">Insert commonly-used DITA elements
+using simple menu items.</li><li id="li_498855D94D774E59ACDF2F12BABB6945">Insert cross-references, images, index
+markers, inline elements, and metadata using dialogs. Dialogs can be customized
+for your own requirements. </li><li id="li_16B3A6C83A56473FAD9F9D24FFDF63E7">Create and preview DITA <i>conrefs
+</i>through easy-to-manage reusable components. <ul id="ul_48AF5EBE72444F45B3A41CF38ACB656B">
+					<li id="li_ACC791769669475AB231CA997417BEC9">XMetaL Author DITA Edition
+automatically generates the unique element IDs needed for cross-references and
+reusable components to work. </li></ul></li>
+			<li id="li_EB64FE64A54D495FBDE636483DAF57A8">Content is continuously validated
+and is saved as DITA XML, ready for output through any DITA-compliant
+stylesheet you choose.</li></ul>
+	</section>
+	<section id="section_1EAF7194D76245A3A5E1E8E49FB56820">
+		<title>Creating DITA
+Maps </title><ul id="ul_308FC0960F254AAD8370F8406E7AE4C7"><li id="li_1EF1FA52A52A4E8F857E005E72D1BF1B">Cleanly view
+topic links in DITA maps.</li><li id="li_90CF2DBF53254E8CAB2D146DA7E7BBC4">Save
+time by creating new topics and adding them to a map in one step.</li>
+			<li id="li_66DBA018578B4D5199C7E240C5484F91">Easily browse for existing topics
+to add to a map. </li>
+			<li id="li_AC9FCCD3667144BBA53E4563E132973A">Rapidly
+organize and reorder topic links with an intuitive user interface.</li></ul>
+	<p><?xm-replace_text Paragraph ?></p></section>
+
+  </conbody>
+</concept>
